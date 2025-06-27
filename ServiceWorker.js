@@ -1,4 +1,4 @@
-const cacheName = "TALIC-Med WebAR-1.0.4";
+const cacheName = "TALIC-Med WebAR-1.0.8";
 const contentToCache = [
     "Build/Med WebAR.loader.js",
     "Build/Med WebAR.framework.js",
